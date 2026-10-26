@@ -1,0 +1,9 @@
+{
+  "name": "RUTİN - Kişisel Düzen",
+  "short_name": "RUTİN",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101218",
+  "theme_color": "#101218",
+  "description": "Günlük görevler, alışkanlıklar ve aylık ödüller."
+}
